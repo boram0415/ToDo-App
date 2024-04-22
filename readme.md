@@ -1,4 +1,4 @@
-----------------# Spring Boot 
+# Spring Boot 
 - ToDo App 만들기
 - Spring Boot, Spring Data JPA , 템플릿 엔진(HTML ) , Mysql
 - Docker 를 이용해 MySQL을 설치
